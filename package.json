@@ -112,7 +112,8 @@
     "resolve": "1.1.x",
     "supports-color": "^3.1.0",
     "which": "^1.1.1",
-    "wordwrap": "^1.0.0"
+    "wordwrap": "^1.0.0",
+    "source-map": "0.4.x"
   },
   "devDependencies": {
     "coveralls": "2.x",
@@ -120,6 +121,8 @@
     "jshint": "^2.8.0",
     "nodeunit": "0.9.x",
     "requirejs": "2.x",
-    "rimraf": "^2.4.3"
+    "rimraf": "^2.4.3",
+    "browserify": "9.x",
+    "traceur": "0.x"
   }
 }
